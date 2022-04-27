@@ -1,0 +1,30 @@
+{
+  "name": "use-file-upload-s3",
+  "version": "1.0.0",
+  "description": "s3 file upload uploading state with progress along  with presignedurl",
+  "main": "use-file-upload-s3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahir",
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^0.27.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzislam25/use-file-upload-s3.git"
+  },
+  "keywords": [
+    "s3",
+    "uploader",
+    "progress",
+    "presignedurl"
+  ],
+  "bugs": {
+    "url": "https://github.com/mzislam25/use-file-upload-s3/issues"
+  },
+  "homepage": "https://github.com/mzislam25/use-file-upload-s3#readme"
+}
